@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 streamlit
 plotly
 numpy
-=======
-streamlit
-plotly
-numpy
->>>>>>> fd577e00c0dd55c88fe08e2e6864d7ad4c6f65f9
+
